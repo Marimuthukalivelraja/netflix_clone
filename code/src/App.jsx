@@ -8,7 +8,7 @@ function App() {
     <>
      <HeaderContent/>
     <Feature/>
-    <Faq/>  
+    {/* <Faq/>   */}
     {/* <Explore/> */}
     
     </>
